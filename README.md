@@ -10,7 +10,6 @@
 [![Express.js](https://img.shields.io/badge/Express.js-Backend-black)](https://expressjs.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)](https://mongodb.com)
 [![Swagger](https://img.shields.io/badge/API_Docs-Swagger-orange)](http://localhost:3000/api-docs)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 </div>
 
